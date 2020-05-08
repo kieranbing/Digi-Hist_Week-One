@@ -1,5 +1,5 @@
 <H1>Notes</H1>
-<H3> Lecture notes <H3> 
+<H3> Lecture notes </H3> 
 <p> - Failure is part of the learning process. </p>
 <p> - To make a failure count one needs to make sure something is learned from it. </p>
 <p> - Failure can come in many different forms, and identifing the type of failure can help with learning from it. 
