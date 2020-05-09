@@ -1,5 +1,8 @@
-<b>Journal</b>
+<H1>Journal</H1>
 
 <p> - I'm excited to see Github on the list of major tech for this course. For many I'm sure there will be a learning curve using it, but I've been using it for 7 or so years. Im glad to see crosover from my COMP courses. I was hoping this class wpould link my computer science expiriance and my new focus on history, and it seems like I was correct. </p>
 <p> - Setting up Hypothesis was easy enough. I'm interested to see how we are going to use it during this course. </p>
 <p> - I was also very happy to see that we are using Zotero. I started using it last semester and I don't know what I would do without it. </p>
+<H3> Thoughts on digital history </H3> 
+<p> As this course begins, I am thinking about digital history through a couple different lenses. I spent most of my life working in computer science or related fields, so I am approaching this course with some technical expertise. I’ve been a history student for a little while now, and have been exposed to some of the ways history is made online. I love online history lectures, annotation software, and source management like Zotero. I’ve also used online journal and primary source databases. One of the reasons I’ve used these online services so much is also one of the most important lenses through which I’m going to think about the content of this course and which will influence how I feel about digital history; the COVID-19 global pandemic. All of these lenses are really hammering home to me how vital digital history can be, and how I can fit into it. </p> 
+<p>I think that digital history is the collection of resources and tools that historians use to preserve and catalogue history online. Even more than that, it’s also a way to make these historical resources accessible and exciting for public consumption. Digital history can literally put all of civilization at our fingertips. I’m excited to learn more about it and how I can be involved in it. </p>
